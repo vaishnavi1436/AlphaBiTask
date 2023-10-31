@@ -7,6 +7,7 @@ Output :
 ![image](https://github.com/vaishnavi1436/AlphaBiTask/assets/78208232/8b2b96bb-657d-4561-9b18-0ed968c61e3d)
 
 
+![image](https://github.com/vaishnavi1436/AlphaBiTask/assets/78208232/5773551b-fb5d-4945-a566-212fcc8686bc)
 
 
 

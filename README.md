@@ -1,3 +1,12 @@
+Output :
+![image](https://github.com/vaishnavi1436/AlphaBiTask/assets/78208232/f4bd2fb4-4c83-41e0-a6b0-5f59e012f307)
+![image](https://github.com/vaishnavi1436/AlphaBiTask/assets/78208232/8b2b96bb-657d-4561-9b18-0ed968c61e3d)
+
+![image](https://github.com/vaishnavi1436/AlphaBiTask/assets/78208232/9535f1e3-f098-43ff-a525-04fe286d6ad8)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
